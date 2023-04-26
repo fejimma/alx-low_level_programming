@@ -1,5 +1,2 @@
-10. a + b
-mandatory
-Write a function that adds two integers and returns the result.
-
-
+0x02. C - Functions, nested loops
+C
